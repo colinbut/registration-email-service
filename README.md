@@ -1,1 +1,1 @@
-# registration-email-service
+# Registration Email Service
